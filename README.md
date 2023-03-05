@@ -21,4 +21,4 @@ It is made using django framework of python.
 
 4.Run system on localhost by the running the manage.py python file. (python manage.py runserver)
 # Working live project:
-  ### Check the running project over: https://cyclades.pythonanywhere.com/
+  ### Check the running project over:
